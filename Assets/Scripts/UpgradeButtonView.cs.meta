@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 3b4262c8c6a688945948ae472a393ac5
+timeCreated: 1532967243
+licenseType: Free
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - Amount: {instanceID: 0}
+  - AmountIncreaseText: {instanceID: 0}
+  - Cost: {instanceID: 0}
+  - ErrorCookiesMissingText: {instanceID: 0}
+  - Label: {instanceID: 0}
+  - AmountIncreaseTextPrefab: {fileID: 224263426368536584, guid: b888f01d0c6dca6449d1213527a2f0a8,
+      type: 2}
+  - ErrorCookiesMissing: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
